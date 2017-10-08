@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SOCOM-Milsim</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="css/geral.css">
+    <link rel="stylesheet" href="bower_components/wow/css/libs/animate.css">
+    <link rel="stylesheet" href="css/plugins.css">
+</head>
+<body>
+    <div class="layout">
+        <header>
+            <div class="logo-sup">
+                <a href="index.html">
+                    <img src="images/misc/logo-socom-sup.png" alt="Logo USASOC Superior">
+                </a>
+            </div>
+            <div class="links">
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Início</a></li>
+                        <li><a href="sobre.html">SOCOM</a></li>
+                        <li><a href="https://goo.gl/forms/ni2X5hnLV7ZohYFB3" target="_blank">Alistamento</a></li>
+                        <li><a href="estrutura.html">Estrutura</a></li>
+                        <li><a href="noticias.html">Noticias</a></li>
+                        <li><a href="pessoal.html">Pessoal</a></li>
+                        <li><a href="formularios.html">Formularios</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <main>
+            <section class="inicio">
+                <div class="container">
+                    <div class="unidades">
+                        <div class="logo-socom">
+                            <img src="images/misc/logo-socom.png" alt="Insignia USSOCOM">
+                        </div>
+                        <div class="icone-usasoc">
+                            <img src="images/misc/logo-usasoc.png" alt="Insignia USASOC">
+                        </div>
+                        <div class="icone-marsoc">
+                            <img src="images/misc/logo-marsoc.png" alt="Insignia MARSOC">
+                        </div>
+                        <div class="icone-nswc">
+                            <img src="images/misc/logo-nswc.png" alt="Insignia NSWC">
+                        </div>
+                        <div class="icone-afsoc">
+                            <img src="images/misc/logo-afsoc.png" alt="Insignia AFSOC">
+                        </div>
+                    </div>
+                    <div class="usasoc-texto">
+                        <h1>SOCOM<br>Comando de Operações Especiais</h1>
+                        <a href="pages/sobre.html" class="botao medio">Saiba mais</a>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8OMM95VNv_vZUcYTiFnL9dHwZRR6zhtgQiGY7HysAtxR8kA/viewform?c=0&w=1" class="botao medio">Aliste-se</a>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <div class="rodape">
+                <div class="logo-rodape">
+                    <a href="http://studioinside.com.br">
+                        <img src="images/misc/inside.png" alt="Logo Inside Rodapé">
+                        <p>2017 Todos os Direitos Reservados</p>
+                    </a>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
